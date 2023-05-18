@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Carla Leite, mas podem me chamar de Cah! 👋
 - 🔭 Trabalhando com Ciência de Dados
-- 🌱 Estudando Machine Learning 
+- 🌱 Estudando Machine Learning e Banco de Dados
 - 😄 Pronomes: Ela/Dela
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlaleite1999&label=Profile%20views&color=0e75b6&style=flat" alt="carlaleite1999" /> </p>
