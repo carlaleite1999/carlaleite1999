@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Carla Leite, mas podem me chamar de Cah! 👋
-- 🔭 Trabalhando com Ciência de Dados
+- 🔭 Trabalhando em projetos pessoais e acadêmicos com Ciência de Dados
 - 🌱 Estudando Machine Learning e Banco de Dados
 - 😄 Pronomes: Ela/Dela
 
