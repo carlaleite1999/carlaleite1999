@@ -1,6 +1,9 @@
 ### Olá! Eu sou a Carla Leite, mas podem me chamar de Cah! 👋
 - 🔭 Trabalhando em projetos pessoais e acadêmicos com Ciência de Dados
 - 🌱 Estudando Machine Learning e Banco de Dados
+- 😁 Explorando a área de Engenharia de Dados
+- 🥰 Aperfeiçoando conhecimentos em Python, R, SQL 
+- 🤩 Tenho interesse em Análise & Ciência de Dados
 - 😄 Pronomes: Ela/Dela
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlaleite1999&label=Profile%20views&color=0e75b6&style=flat" alt="carlaleite1999" /> </p>
